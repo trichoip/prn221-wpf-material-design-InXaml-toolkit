@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "QaQAr6AmZgaEC3TAATo/ZhsZvXVjmjcZoHHqt7NagB6qANX801VKeia0y28lpfyE15wnRysJkG5oS1u5EIt37A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\choip\\Downloads\\learnC\\MaterialDesignInXamlToolkit-master\\MainDemo.Wpf\\MaterialDesignDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\choip\\.nuget\\packages\\avalonedit\\6.0.1\\avalonedit.6.0.1.nupkg.sha512",
+    "C:\\Users\\choip\\.nuget\\packages\\bluwolficons\\1.0.1\\bluwolficons.1.0.1.nupkg.sha512",
+    "C:\\Users\\choip\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\choip\\.nuget\\packages\\showmethexaml\\2.0.0\\showmethexaml.2.0.0.nupkg.sha512",
+    "C:\\Users\\choip\\.nuget\\packages\\showmethexaml.avalonedit\\2.0.0\\showmethexaml.avalonedit.2.0.0.nupkg.sha512",
+    "C:\\Users\\choip\\.nuget\\packages\\showmethexaml.msbuild\\2.0.0\\showmethexaml.msbuild.2.0.0.nupkg.sha512",
+    "C:\\Users\\choip\\.nuget\\packages\\virtualizingwrappanel\\1.5.7\\virtualizingwrappanel.1.5.7.nupkg.sha512"
+  ],
+  "logs": []
+}
